@@ -1,1 +1,2 @@
-# aplikacje-mobilne-22662-195IC
+# Dominik Makuch 22662
+## To repozytorium jest podstawą zaliczenia przedmiotu Aplikacje Mobilne.
